@@ -1,0 +1,14 @@
+
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì¶Ğ§ÿÿÿÿÿ8¿¡šõ2J$fd7c72d3-86ff-4486-bb0f-b7e55977e454
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒÃÛí8À¡šõ2J$6eb20876-a3a7-4f60-9e74-69d16c91d9a5
+“	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã½¯õ8À¡šõ2J$581fc6c8-e5d5-40c8-94d2-2c5ee8e0f257
+›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–ÍÂ*8À¡šõ2J$cee6b51d-b434-4789-8977-3bbfd9bb5cb0
+
+java:S1488+"ZImmediately return this expression instead of assigning it to the temporary variable "e1".(«óÛª8À¡šõ2J$99af6ad5-d0b0-4245-84c1-d5179986639f
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8Á¡šõ2J$bcb0d340-6a2f-4ca5-9830-f5b5fd6d61d8
+ƒ
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(Éšì—8Â¡šõ2J$a218fa17-31eb-41f0-a281-699e1709a387
+ƒ
+java:S4684&"@Replace this persistent entity with a simple POJO or DTO object.(§”ãŠ8Ã¡šõ2J$3cb18b55-bfea-4052-a4c3-f5218b1a4777
+•	java:S1005"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—£ÛÂøÿÿÿÿ8Ä¡šõ2J$500a99ba-e0cf-413e-9dda-eb4652da9021

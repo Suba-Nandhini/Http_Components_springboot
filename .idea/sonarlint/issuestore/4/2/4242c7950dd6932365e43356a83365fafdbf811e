@@ -1,0 +1,6 @@
+
+”	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ä·Ö}J$211aee63-ce4f-4c41-bb30-b2019e449234
+“	java:S116"QRename this field "e_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„¸¯¯8úþÜñŽ2J$e944d022-79ed-400f-9eb2-541c78d74193
+–	java:S116"ORename this field "e_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷§êïüÿÿÿÿ8úþÜñŽ2J$31722832-f69a-4d16-8cc1-fa1772f7b865
+z
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓþÿÿÿÿ8•¹¿òŽ2J$d932de27-19da-4c8b-ae30-38aba3f9ef90
